@@ -1,0 +1,12 @@
+C:\Users\USER-PC\Desktop\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\bin\Debug\Concept-Conceito-Emp.exe.config
+C:\Users\USER-PC\Desktop\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\bin\Debug\Concept-Conceito-Emp.exe
+C:\Users\USER-PC\Desktop\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\bin\Debug\Concept-Conceito-Emp.pdb
+C:\Users\USER-PC\Desktop\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Debug\Concept-Conceito-Emp.csproj.AssemblyReference.cache
+C:\Users\USER-PC\Desktop\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Debug\Concept_Conceito_Emp.Form1.resources
+C:\Users\USER-PC\Desktop\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Debug\Concept_Conceito_Emp.Properties.Resources.resources
+C:\Users\USER-PC\Desktop\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Debug\Concept-Conceito-Emp.csproj.GenerateResource.cache
+C:\Users\USER-PC\Desktop\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Debug\Concept-Conceito-Emp.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Debug\Concept-Conceito-Emp.exe
+C:\Users\USER-PC\Desktop\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Debug\Concept-Conceito-Emp.pdb
+C:\Users\USER-PC\Desktop\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Debug\Concept_Conceito_Emp.Form2.resources
+C:\Users\USER-PC\Desktop\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Debug\Concept_Conceito_Emp.Form3.resources

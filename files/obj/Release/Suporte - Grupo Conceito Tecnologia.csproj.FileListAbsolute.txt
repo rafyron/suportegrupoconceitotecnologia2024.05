@@ -1,0 +1,12 @@
+C:\Users\USER-PC\Desktop\Suporte - Grupo Conceito Tecnologia - C#\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\bin\Release\Suporte - Grupo Conceito Tecnologia.exe.config
+C:\Users\USER-PC\Desktop\Suporte - Grupo Conceito Tecnologia - C#\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\bin\Release\Suporte - Grupo Conceito Tecnologia.exe
+C:\Users\USER-PC\Desktop\Suporte - Grupo Conceito Tecnologia - C#\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\bin\Release\Suporte - Grupo Conceito Tecnologia.pdb
+C:\Users\USER-PC\Desktop\Suporte - Grupo Conceito Tecnologia - C#\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Release\Suporte - Grupo Conceito Tecnologia.csproj.AssemblyReference.cache
+C:\Users\USER-PC\Desktop\Suporte - Grupo Conceito Tecnologia - C#\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Release\Concept_Conceito_Emp.Form1.resources
+C:\Users\USER-PC\Desktop\Suporte - Grupo Conceito Tecnologia - C#\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Release\Concept_Conceito_Emp.Form2.resources
+C:\Users\USER-PC\Desktop\Suporte - Grupo Conceito Tecnologia - C#\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Release\Concept_Conceito_Emp.Form3.resources
+C:\Users\USER-PC\Desktop\Suporte - Grupo Conceito Tecnologia - C#\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Release\Suporte_Grupo_Conceito.Properties.Resources.resources
+C:\Users\USER-PC\Desktop\Suporte - Grupo Conceito Tecnologia - C#\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Release\Suporte - Grupo Conceito Tecnologia.csproj.GenerateResource.cache
+C:\Users\USER-PC\Desktop\Suporte - Grupo Conceito Tecnologia - C#\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Release\Suporte - Grupo Conceito Tecnologia.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\Suporte - Grupo Conceito Tecnologia - C#\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Release\Suporte - Grupo Conceito Tecnologia.exe
+C:\Users\USER-PC\Desktop\Suporte - Grupo Conceito Tecnologia - C#\Concept-Conceito-Emp-C#\12-01-24\Concept-Conceito-Emp\obj\Release\Suporte - Grupo Conceito Tecnologia.pdb
